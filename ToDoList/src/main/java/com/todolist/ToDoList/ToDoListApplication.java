@@ -11,4 +11,10 @@ public class ToDoListApplication {
 	}
 
 	int chiffre = 2;
+
+	public int getAddition() {
+		return chiffre;
+	}
+
+	addition = chiffre +
 }
